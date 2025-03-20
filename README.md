@@ -27,7 +27,7 @@ I cleaned up a messy dataset of company layoffs to make it reliable for analysis
 
 1. **download the files**  
    **Dataset**: (Data/layoffs.csv)   
-   **SQL scripts**: [Data_Cleaning.sql](SQL-Scripts/Data_Cleaning.sql) and [Data_Exploration.sql](SQL-Scripts/Data_Exploration.sql).  
+   **SQL scripts**: SQL-Scripts/Data_Cleaning.sql and Data_Exploration.sql.  
 
 2. **Run the SQL scripts** *(in this order)*  
    **First**: `Data_Cleaning.sql` – cleaning the raw data.  
