@@ -1,7 +1,7 @@
 # Layoffs Data Analysis Project 
 
 **Key Goals?** 
-I cleaned up a messy dataset of company layoffs to make it reliable for analysis.  I removed duplicates, fixed typos, and filled in missing values, preparing it for analysis, and identifying trends, in layoffs  by company, industry and country.
+I cleaned up a messy dataset of layoffs of companies to make it reliable for analysis.  I removed duplicates, fixed typos, and filled in missing values, preparing it for analysis, and identifying trends, in layoffs  by company, industry and country.
 
 ### **Data cleaning steps:**  
 
